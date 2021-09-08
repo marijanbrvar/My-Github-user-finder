@@ -24,20 +24,22 @@ In this project, I will build a simple HTML/JS list of To Do tasks.
 To get a local copy up and running, follow these simple example steps.
 
 ### Prerequisites
+
 - Chrome browser
 - Node v14.XX >
 - npm (usually already installed with current node version)
 
 ### Setup
+
 To run code locally, please follow steps belove
+
 1. `git@github.com:marijanbrvar/My-Github-user-finder.git && cd My-Github-user-finder`
 2. run `npm install`
 3. then run `npm run start`
 
 webpack will automatically open the default browser, and you can start using the ToDo web app. All data is stored locally, which means that all your job/tasks will stay present in the browser after the refresh.
+
 ### Usage
-
-
 
 ## Authors
 
